@@ -342,13 +342,11 @@ Este projeto foi desenvolvido por **Edemir de Carvalho Rodrigues** e está dispo
 
 ---
 
-## 🙏 Agradecimentos
 
-Desenvolvido com dedicação por **Edemir de Carvalho Rodrigues**, este sistema representa um esforço significativo para democratizar o acesso à educação online através de tecnologia de qualidade.
 
 ---
 
 *Sistema Moodle LMS - Transformando a educação através da tecnologia*
 
-**© 2025 - Edemir de Carvalho Rodrigues - Todos os direitos reservados**
+
 
